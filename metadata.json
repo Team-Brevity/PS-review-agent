@@ -1,0 +1,6 @@
+{
+  "name": "PS Review Agent",
+  "description": "ProWorkflow webhook and Gemini advisory review backend for engineering Producer Statements (PS1, PS2, PS4).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
